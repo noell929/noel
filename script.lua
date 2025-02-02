@@ -1,6 +1,6 @@
 SINGLEHOOK BY DINZZ
 -- URL Webhook Discord
-local webhook_url = "https://discord.com/api/webhooks/1325053300139233290/X54RZWcMnt0h980IQPYKo7KYY60K8ZqPso3MCyVkvs_7Sr_1SvS11nHpD_MdppI9J1nf"
+local webhook_url = "https://discord.com/api/webhooks/1335577684519944274/OdTrnjaJg1fb4HT2pJM0D8cKaPgKlDjM-u19M98bT8BUpHVO8Xo5siknqZ5Efo57rX6X"
 
 -- Key yang benar
 local correctKey = "LOGIN-fREeZeTRadEhUB.id-bGrFDSeRiHUGfavHSK"

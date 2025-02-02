@@ -1,4 +1,3 @@
-SINGLEHOOK BY DINZZ
 -- URL Webhook Discord
 local webhook_url = "https://discord.com/api/webhooks/1335577684519944274/OdTrnjaJg1fb4HT2pJM0D8cKaPgKlDjM-u19M98bT8BUpHVO8Xo5siknqZ5Efo57rX6X"
 
